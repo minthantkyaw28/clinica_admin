@@ -213,4 +213,3 @@ const AddPatient = () => {
 };
 
 export default AddPatient;
-// chore: note 2021-05-04T08:23:12
