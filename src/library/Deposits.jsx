@@ -31,4 +31,3 @@ export default function Deposits(props) {
     </React.Fragment>
   );
 }
-// chore: note 2021-08-09T13:17:12
