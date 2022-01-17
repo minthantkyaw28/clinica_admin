@@ -76,4 +76,3 @@ export default function Chart() {
     </React.Fragment>
   );
 }
-// chore: note 2021-10-12T06:17:33
