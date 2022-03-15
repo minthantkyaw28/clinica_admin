@@ -22,4 +22,3 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     </LocalizationProvider>
   </React.StrictMode>
 );
-// chore: note 2021-07-08T07:23:24
