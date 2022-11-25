@@ -186,4 +186,3 @@ const MAIN = () => {
 }
 
 export default MAIN;
-// chore: note 2022-01-07T07:56:34
