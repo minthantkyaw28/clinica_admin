@@ -7,4 +7,3 @@ const Payment = () => {
 }
 
 export default Payment
-// chore: note 2022-10-05T06:20:30
