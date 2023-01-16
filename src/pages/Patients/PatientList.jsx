@@ -186,4 +186,3 @@ const PatientList = () => {
 };
 
 export default PatientList;
-// chore: note 2022-05-20T20:52:54
