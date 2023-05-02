@@ -166,4 +166,3 @@ const AddHospital = () => {
 };
 
 export default AddHospital;
-// chore: note 2023-02-09T18:27:06
