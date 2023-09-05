@@ -66,4 +66,3 @@ export const hospitalTransactionSingleDayActions =
   hospitalTransactionSingleDaySlice.actions;
 
 export default hospitalTransactionSingleDaySlice.reducer;
-// chore: note 2023-08-28T04:43:50
