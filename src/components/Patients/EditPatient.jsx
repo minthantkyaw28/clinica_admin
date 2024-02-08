@@ -81,4 +81,3 @@ const EditPatient = () => {
 };
 
 export default EditPatient;
-// chore: note 2023-08-03T05:42:21
