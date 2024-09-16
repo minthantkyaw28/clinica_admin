@@ -180,4 +180,3 @@ const DoctorList = () => {
 };
 
 export default DoctorList;
-// chore: note 2024-08-12T02:32:34
