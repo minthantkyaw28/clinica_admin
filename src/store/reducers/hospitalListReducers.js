@@ -58,3 +58,4 @@ const HospitalListSlice = createSlice({
 export const HospitalListActions = HospitalListSlice.actions;
 
 export default HospitalListSlice.reducer;
+// chore: note 2025-04-07T15:52:20
