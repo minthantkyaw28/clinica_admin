@@ -167,4 +167,3 @@ const RecordList = () => {
 };
 
 export default RecordList;
-// chore: note 2025-07-16T05:35:56
