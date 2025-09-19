@@ -140,4 +140,3 @@ const HospitalPayment = () => {
 };
 
 export default HospitalPayment;
-// chore: note 2025-08-08T13:30:57
