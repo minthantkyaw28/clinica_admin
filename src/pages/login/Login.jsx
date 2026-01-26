@@ -188,4 +188,3 @@ const Login = () => {
 }
 
 export default Login
-// chore: note 2025-10-14T14:19:25
