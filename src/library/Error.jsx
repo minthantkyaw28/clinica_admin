@@ -7,4 +7,3 @@ const Error = () => {
 }
 
 export default Error
-// chore: note 2025-12-29T10:38:44
