@@ -157,4 +157,3 @@ const HospitalList = () => {
 };
 
 export default HospitalList;
-// chore: note 2026-03-03T19:51:16
